@@ -1,0 +1,15 @@
+D:\SVN\myTest\myTest\bin\myTest.dll
+D:\SVN\myTest\myTest\bin\myTest.pdb
+D:\SVN\myTest\myTest\bin\Ext.Net.dll
+D:\SVN\myTest\myTest\bin\Ext.Net.Utilities.dll
+D:\SVN\myTest\myTest\bin\Microsoft.Web.Infrastructure.dll
+D:\SVN\myTest\myTest\bin\Newtonsoft.Json.dll
+D:\SVN\myTest\myTest\bin\Transformer.NET.dll
+D:\SVN\myTest\myTest\bin\WebActivatorEx.dll
+D:\SVN\myTest\myTest\bin\Ext.Net.xml
+D:\SVN\myTest\myTest\bin\Ext.Net.Utilities.xml
+D:\SVN\myTest\myTest\bin\Newtonsoft.Json.xml
+D:\SVN\myTest\myTest\bin\Transformer.NET.xml
+D:\SVN\myTest\myTest\obj\Debug\myTest.csprojResolveAssemblyReference.cache
+D:\SVN\myTest\myTest\obj\Debug\myTest.dll
+D:\SVN\myTest\myTest\obj\Debug\myTest.pdb
